@@ -1,1 +1,5 @@
-"# TTSpdUpE"
+# TTSpdUpE
+
+## Description
+Typing-tubeでのデータ制作において曲のBPMと歌いだしの秒数が分かれば残りを拍をカウントすることによって計算できることを利用したExcelシートです。 
+開発初期により問題点多数なので何かあったらIssueのほうに
